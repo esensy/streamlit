@@ -1,3 +1,3 @@
-# app-streamlit
+# 손글씨 숫자 인식
 
-cv 패키지 배포시 이상 있음, PIL로 대체
+streamlit
